@@ -1,0 +1,10 @@
+Week 03
+
+Voor het maken, combineren en het bijhouden van de combinaties van de elementen, besloot ik gebruik te gaan maken van ScriptableObject.
+Op deze manier kan ik makkelijk en snel elementen toevoegen en aanpassen en ook makkelijk een hele lijst aan combinaties bijhouden.
+
+Deze week heb ik dat werkend gekregen en wil voor volgende week even kijken naar de FPS controller zelf omdat de standaard controller
+van Unity wel oke is maar sommige dingetjes me net niet lekker zitten.
+
+Rens Kuilman
+3025980
