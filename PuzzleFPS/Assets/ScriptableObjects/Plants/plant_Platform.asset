@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ab4eb2e226fb6844dbcf534b9e71188e, type: 3}
+  m_Name: plant_Platform
+  m_EditorClassIdentifier: 
+  PrefabFloor: {fileID: 3912136604761298374, guid: 5f5daf431a69630438d0176a8c12ac1e,
+    type: 3}
+  PrefabWall: {fileID: 4368195033239304422, guid: 9f4a3b65a4a68df40a9d49e711f8dcbb,
+    type: 3}
+  isFloorPlant: 1
+  isWallPlant: 1
